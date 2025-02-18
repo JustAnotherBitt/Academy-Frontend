@@ -7,7 +7,7 @@ The **Academy Frontend** project provides a user-friendly interface for interact
 ## First look
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1f47717a-8ccf-4dd7-a47a-16d249c0ce00" alt="" width="850">
+<img src="https://github.com/user-attachments/assets/0ba17f04-e535-42d4-80af-e46b41953ccf" alt="" width="850">
 </p>
 
 
