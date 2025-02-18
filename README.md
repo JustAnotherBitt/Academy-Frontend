@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Academy Frontend** project provides a user-friendly interface for interacting with the <a href="https://github.com/JustAnotherBitt/Academy-Backend">**Academy Backend**</a>API<. It allows users to perform various operations such as creating students, updating student details, deleting students, listing all students, marking lessons as completed, and checking student progress. This frontend is built using **Flet**, a framework for creating cross-platform apps with Python.
+The **Academy Frontend** project provides a user-friendly interface for interacting with the <a href="https://github.com/JustAnotherBitt/Academy-Backend">**Academy Backend**</a> API. It allows users to perform various operations such as creating students, updating student details, deleting students, listing all students, marking lessons as completed, and checking student progress. This frontend is built using **Flet**, a framework for creating cross-platform apps with Python.
 
 ## First look
 
